@@ -1470,7 +1470,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #808080;
+  background: #bf854d;
   color: #f7f7f7;
 }
 button {
@@ -1517,7 +1517,7 @@ img:not([src]) {
 blockquote {
   margin: 0 0 20px;
   padding: 7px 15px;
-  border-left: 4px solid #6495ed;
+  border-left: 4px solid #fd1919;
   background-color: var(--blockquote-bg);
   color: var(--blockquote-color);
   border-radius: 6px;
@@ -4255,7 +4255,7 @@ figure.highlight pre .javascript .function {
   overflow-wrap: break-word;
 }
 .container a {
-  color: #20b2aa;
+  color: #0eadda;
 }
 .container a:hover {
   text-decoration: underline;
